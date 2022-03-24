@@ -1,5 +1,5 @@
 
-![Profile picture Github](./bannièreV3.png)
+![Profile picture Github](./bannièreV3_resized.jpg)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
