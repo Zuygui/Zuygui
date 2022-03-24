@@ -23,5 +23,5 @@ I was working on [my bot](https://github.com/TyraBOT/tyra), and different course
 💬 Ask me about anything, I am happy to help.
 
 ---
-
+ 
 *"If the code and the comments do not match, possibly both are incorrect." — Norm Schryer*
